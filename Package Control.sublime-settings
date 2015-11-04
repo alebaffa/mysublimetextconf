@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"Colorsublime",
+		"DocBlockr",
+		"Git",
+		"GitGutter",
+		"Golang Build",
+		"GoSublime",
+		"Material Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"Predawn",
+		"SublimeREPL",
+		"Theme - Aprosopo",
+		"Theme - Aristocat",
+		"Theme - Asphalt",
+		"Theme - Centurion",
+		"Theme - LP"
+	],
+	"repositories":
+	[
+		"https://packagecontrol.io/testing/go_packages.json"
+	]
+}

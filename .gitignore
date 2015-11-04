@@ -1,0 +1,9 @@
+*.last-run
+*.ca-list
+*ca-bundle
+*.cache/
+*.ca-certs/
+GoSublime/
+Color Highlighter/
+.SublimeREPLHistory/
+*aux*
